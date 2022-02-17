@@ -1,0 +1,6 @@
+.env
+LICENSE
+logs/
+dags/data_ingestion_local.py
+dags/data_ingestion_gcs_dag_v2.py
+dags/data_ingestion_gcs_dag.py
