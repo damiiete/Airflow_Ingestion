@@ -1,7 +1,7 @@
 # Airflow_Ingestion
 
 ## Introduction
-This project uses [Apache Airflow](https://airflow.apache.org/) to create workflow ocherstartion of a data pipeline that extracts,
+This project uses [Apache Airflow](https://airflow.apache.org/) to create workflow orchestration of a data pipeline that extracts,
 changes the format and uploads the data to a data lake (GCS).
 
 ## Process
